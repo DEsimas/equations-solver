@@ -1,0 +1,5 @@
+﻿  Solver.cpp
+C:\Users\Serafim\Documents\Programs\mtuci-cpp\L4\Solver.h(355,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Serafim\Documents\Programs\mtuci-cpp\L4\Solver.h(323,39): warning C4101: 'e': unreferenced local variable
+  Solver.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  L4.vcxproj -> C:\Users\Serafim\Documents\Programs\mtuci-cpp\L4\x64\Debug\L4.exe
